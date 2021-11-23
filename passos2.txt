@@ -1,0 +1,10 @@
+criação das tabelas no io
+
+definição dos tamanhos
+
+uso de java para contagem
+
+mais que pronto e chegqndo lá com api
+
+crir scripts separados para tabela
+pesquisas etc
